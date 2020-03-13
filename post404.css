@@ -1,0 +1,46 @@
+.post-404 {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+.actions-404 {
+    width: 100%;
+    float: right;
+    text-align: center;
+}
+.ops-404 {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 26px;
+    font-weight: 400;
+    font-family: inherit;
+letter-spacing:1.5px;
+}
+.ops-404 span {
+    font-weight: 700;
+}
+.title-404 {
+    font-size: 200px;
+    font-weight: 700;
+    line-height: 1.1;
+    color:$maincolor;
+}
+.link-404 {
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+#blog-pager, #sidebar-wrapper,.status-msg-wrap, #sidebar-wrapper1 {
+    display: none;
+}
+.status-msg-border {
+         border: 0 !important;
+       }
+
+       .status-msg-bg {
+         background-color: #fff;
+       }
+#main-wrapper {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+}
